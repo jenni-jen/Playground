@@ -1,5 +1,9 @@
 This is a new file.
 
+<<<<<<< HEAD
 
 hahahahaha
+=======
+Jennifer Chen makes some changes to the new file.
+>>>>>>> c9bf26e (JC makes changes)
 
